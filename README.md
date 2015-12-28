@@ -10,9 +10,10 @@ The input data description can be found here:
 * http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 The Dataset should be downloaded into `UCI HAR Dataset` folder in the root directory of this repo.
- 
+
 ## The script process
 The script does the following:
+
 1. Load the dataset metadata
 2. Load `train` and `test` data
 3. Combine X, Y, and subject data
